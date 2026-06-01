@@ -1,0 +1,4 @@
+interface:
+  display_name: "Finance AI Dashboard"
+  short_description: "Maintain the finance AI dashboard app."
+  default_prompt: "Use $finance-ai-dashboard to modify and verify the local personal finance dashboard."
