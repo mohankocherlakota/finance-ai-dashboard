@@ -1,0 +1,4 @@
+interface:
+  display_name: "QA Code Review"
+  short_description: "Review finance dashboard code safely."
+  default_prompt: "Use $qa-code-review to review the finance dashboard code for bugs, risks, and missing tests."
